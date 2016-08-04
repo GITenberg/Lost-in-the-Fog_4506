@@ -1,0 +1,30 @@
+_repo: Lost-in-the-Fog_4506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - Mille, James de
+    - DeMille, James
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: The Brethren of the Order of the White Cross, a boy's club, reunite and
+  embark on a perilous adventure.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- GITenberg
+title: Lost in the Fog
+url: http://www.gutenberg.org/ebooks/4506
