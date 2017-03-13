@@ -1,5 +1,8 @@
 _repo: Lost-in-the-Fog_4506
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De Mille, James
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
 description: The Brethren of the Order of the White Cross, a boy's club, reunite and
   embark on a perilous adventure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4506#Lost-in-the-Fog
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
